@@ -1,6 +1,6 @@
 # Stationary Sniper
 #### Ash, Alain et Victor
-## Prinipe et Gameplay
+## Principe et Gameplay
 Il y a une cible à protéger sur la map. Le joueur contrôle une viseur et détruit les ennemis, qui tentent de détruire/tuer la cible.
 On compte les points par ennemis tués, et on essaie de battre son record. C'est donc un jeu de type **"Arcade"** et **"Sniper"**.
 
