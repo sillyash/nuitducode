@@ -25,7 +25,7 @@ class Player:
         voiture.move()
         print(voiture.life)
 
-    def visor(self):
+    def draw_visor(self):
         pyxel.circb(pyxel.mouse_x,pyxel.mouse_y, 8, 9)
         if self.tir:
             pyxel.pset(pyxel.mouse_x,pyxel.mouse_y, 9)
