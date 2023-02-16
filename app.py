@@ -4,6 +4,8 @@ from elements import Car, Player
 voiture = Car(0,100,32,16,10)
 joueur = Player()
 
+
+
 class App:
     def __init__(self):
         pyxel.init(300, 200,title="Sniper",fps=60,quit_key=pyxel.KEY_NONE,display_scale=4)
