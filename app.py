@@ -1,5 +1,5 @@
 import pyxel
-
+from elements import Car, Player
 class App:
     def __init__(self):
         pyxel.init(1920, 1080,title="Sniper",fps=60,quit_key=pyxel.KEY_NONE,display_scale=4)
